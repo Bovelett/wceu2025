@@ -85,3 +85,91 @@
 		padding-bottom: var( --height__second-row );
 	}
 }
+
+/* Headings additional sizes as listed in Figma here: https://www.figma.com/proto/qNjka0m5MpTdWnZd2UjvMv/Website?node-id=0-1&t=BCcmf8rlvoffo79P-1. PX values have been converted to rem. */
+
+h1.wc25-medium {
+  font-size: 4.5rem;
+  line-height: 1;
+}
+
+h1.wc25-small {
+  font-size: 3.5rem;
+  line-height: 1;
+}
+
+h2.wc25-medium {
+  font-size: 3.5rem;
+  line-height: 1;
+}
+
+h2.wc25-small {
+  font-size: 3rem;
+  line-height: 1;
+}
+
+h3.wc25-medium {
+  font-size: 3rem;
+  line-height: 1;
+}
+
+h3.wc25-small {
+  font-size: 2.5rem;
+  line-height: 1;
+}
+
+h4.wc25-medium {
+  font-size: 2.5rem;
+  line-height: 1;
+}
+
+h4.wc25-small {
+  font-size: 2rem;
+  line-height: 1;
+}
+
+h5.wc25-medium {
+  font-size: 1.75rem;
+  line-height: 1.29;
+}
+
+h5.wc25-small {
+  font-size: 1.5rem;
+  line-height: 1.33;
+}
+
+h6.wc25-medium {
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
+h6.wc25-small {
+  font-size: 1.125rem;
+  line-height: 1.33;
+}
+
+/* Paragraph font-sizes. */
+
+p.wc25-p-small {
+  font-size: 0.875rem;
+  line-height: 1.43;
+}
+
+p.wc25-p-large {
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
+p.wc25-p-large-small {
+  font-size: 1.125rem;
+  line-height: 1.44;
+}
+
+p.wc25-p-large-bold {
+  font-weight: 700;
+}
+
+p.wc25-p-large-bold-small {
+  font-size: 1.125rem;
+  line-height: 1.44;
+}
